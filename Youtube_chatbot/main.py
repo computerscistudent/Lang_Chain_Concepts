@@ -72,7 +72,10 @@ if __name__ == "__main__":
     run_chatbot()
     print(f"\n📜 Conversation History: {chat}" )
 
-
+# video_id = c64hqovEG-U  
+# video title = Neil & David Kipping Explore The Latest in Exoplanet Discovery
+    
+# Example Questions -:
 # What do you mean by the sun's siblings
 # explain about life on exomoons 
 # explain the previous question but in easier words
